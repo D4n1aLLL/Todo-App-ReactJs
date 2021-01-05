@@ -5,6 +5,9 @@ import TableTodo from "./components/table";
 //import moment from "moment";
 
 class App extends Component {
+  componentDidMount() {
+    document.title = "Todo App - React JS";
+  }
   render() {
     return (
       <React.Fragment>
