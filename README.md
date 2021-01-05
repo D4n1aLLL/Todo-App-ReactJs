@@ -1,5 +1,9 @@
 Live: https://danial-todo-app.herokuapp.com/
 
+![image](https://user-images.githubusercontent.com/31568910/103672126-b03a4280-4f9d-11eb-9d12-b397feeded1a.png)
+![image](https://user-images.githubusercontent.com/31568910/103672210-d3fd8880-4f9d-11eb-947f-c4275a05c6f5.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
