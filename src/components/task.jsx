@@ -24,6 +24,7 @@ class TaskTodo extends Component {
           value={this.state.task.name}
           onChange={this.handleEditChange}
           onClick={this.getTaskName}
+          onBlur={this.handleEdit}
         />
       );
     return this.state.task.name;
